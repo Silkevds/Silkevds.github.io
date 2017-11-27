@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HOME",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 57,
     "versionPublish": "4.4.1",
@@ -1312,7 +1312,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#171717\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Ever since being a child, I've always had a fascination for human faces, and anatomy. I only ever remember drawing faces, portraits and human figures. Most of the portraits provided in the gallery were made in my sketchbook. They could've been made anywhere and everywhere.</b></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#171717\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Ever since being a child, I've always had a fascination for human faces, and anatomy. I only ever remember drawing faces, portraits and human figures. Most of the portraits provided in the gallery were made in my sketchbook. They could've been made anywhere and everywhere. Some of them were made on the train, during classes, even other countries. Colours used in the portraits often represent the person and the kind of undertones I find in their skin, or colours that remind me of that person. Sketches are scanned and printed 10 times and are available for purchase. The number of the prints are found in the bottom right corner together with a signature. The reason for this is that I like the original to be kept in my authentic sketchbook. &nbsp;</b></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qCbIztHeLw",
           "_protectedParams": [],
           "_global": false,
