@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,14 +21,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -41,14 +42,14 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -609,7 +610,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1908,6 +1909,55 @@ body {
 }
 .cid-qBwbvUZsdN .content-slider-wrap {
   width: 100%;
+}
+.cid-qBwhxwa8rh {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #030303, #171717);
+}
+.cid-qBwhxwa8rh .mbr-iconfont-social {
+  font-size: 32px;
+  color: #767676;
+}
+.cid-qBwhxwa8rh .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qCb9KHcINQ {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #171717;
+}
+.cid-qCb9KHcINQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qCb9KHcINQ H2 {
+  color: #525252;
+}
+.cid-qBwfJTeswM {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #171717;
+}
+.cid-qBwfJTeswM H2 {
+  color: #525252;
+}
+.cid-qCbAOMcia3 {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #171717;
+}
+@media (min-width: 992px) {
+  .cid-qCbAOMcia3 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qCbAOMcia3 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qCbAOMcia3 .mbr-text {
+  color: #767676;
 }
 .cid-qBwhxwa8rh {
   padding-top: 15px;
