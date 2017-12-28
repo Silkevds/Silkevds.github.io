@@ -1636,8 +1636,8 @@ body {
   color: #525252;
 }
 .cid-qBwbvUZsdN {
-  padding-top: 15px;
-  padding-bottom: 45px;
+  padding-top: 45px;
+  padding-bottom: 15px;
   background-color: #171717;
 }
 .cid-qBwbvUZsdN .content-slider {
@@ -1908,7 +1908,10 @@ body {
   text-align: center;
 }
 .cid-qBwbvUZsdN .content-slider-wrap {
-  width: 100%;
+  width: 95%;
+}
+.cid-qBwbvUZsdN P {
+  color: #525252;
 }
 .cid-qBwhxwa8rh {
   padding-top: 15px;
