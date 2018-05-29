@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "HOME",
-    "currentPage": "page9.html",
+    "currentPage": "InfoLifeArt.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 83,
+    "uniqCompNum": 88,
     "versionPublish": "4.4.1",
     "theme": {
       "name": "mobirise4",
@@ -2524,7 +2524,7 @@
         }
       ]
     },
-    "page9.html": {
+    "InfoLifeArt.html": {
       "settings": {
         "meta_descr": "Info Ghosts",
         "title": "Info Life Art",
